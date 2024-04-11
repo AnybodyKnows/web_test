@@ -1,0 +1,32 @@
+[
+  {
+    "title": "First article",
+    "date": "12.10.2023",
+    "author": "Dmitro",
+    "text": "lorem ipsum dolor sit amet, consectetur adip"
+  },
+    {
+    "title": "1First article",
+    "date": "11.10.2023",
+    "author": "Dmitro1",
+    "text": "lorem ipsum dolor sit amet, consectetur adip"
+  },
+    {
+    "title": "2First article",
+    "date": "09.10.2023",
+    "author": "Dmitro2",
+    "text": "lorem ipsum dolor sit amet, consectetur adip"
+  },
+    {
+    "title": "3First article",
+    "date": "30.10.2023",
+    "author": "Dmitro3",
+    "text": "lorem ipsum dolor sit amet, consectetur adip"
+  },
+    {
+    "title": "4First article",
+    "date": "20.10.2023",
+    "author": "Dmitro4",
+    "text": "lorem ipsum dolor sit amet, consectetur adip"
+  }
+]
